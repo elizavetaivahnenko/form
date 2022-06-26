@@ -1,0 +1,40 @@
+
+.formContainer{
+	display: flex;
+	flex-direction: column;
+	width: 600px;
+	border: 2px solid black;
+	margin: 500px;
+}
+form{
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	margin-left: 25%;
+	width: 300px;
+}
+footer{
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+}
+.image{
+	border-radius: 50px;
+	width: 100px;
+	height: 100px;
+	background-color: aquamarine;
+	display: flex;
+	justify-content: center;
+	margin-left: 250px;
+
+}
+h2{
+	display: flex;
+	justify-content: center;
+}
+button{
+	background-color: aquamarine;
+	width: 300px;
+	height: 30px;
+	margin-left: 150px;
+}
